@@ -36,8 +36,8 @@ app.post('/bfhl', (req, res) => {
   // Response
   res.json({
     is_success: true,
-    user_id: 'vishwas_r_singh_22091998',
-    email: 'vishwas@example.com',
+    user_id: 'vshws',
+    email: 'vr0677@srmist.edu.in',
     roll_number: 'RA2111027010134',
     numbers,
     alphabets,
